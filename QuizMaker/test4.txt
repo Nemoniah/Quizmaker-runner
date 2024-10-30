@@ -1,0 +1,3 @@
+
+What's 3*3?;A.9;B.01;C.potato;A;10
+What's Swedish for cat?;A.Katt;B.Kattor;C.Kat;A;10
